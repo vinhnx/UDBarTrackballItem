@@ -11,6 +11,8 @@ It is implemented as a `UIBarButtonItem` subclass to control the caret movement 
 
 [Screencast of the sample project example](https://www.youtube.com/watch?v=7WquTtzEsRs)
 
+![Imgur](http://i.imgur.com/QhwkF2G.gif?1)
+
 ![Screenshot of the sample project example](Screenshot.png)
 
 ## Features
